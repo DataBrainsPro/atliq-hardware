@@ -1,4 +1,4 @@
-# atliq-hardware
+# AtliQ Hardware - Consumer Goods Ad-Hoc Analysis
 ### Codebasics Resume Project Challenge 4 - Provide insights to management in consumer goods domain
 
 ##### Problem Statement:
